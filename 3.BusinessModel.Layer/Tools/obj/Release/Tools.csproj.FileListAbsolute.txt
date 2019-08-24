@@ -1,0 +1,12 @@
+D:\Documentos\Escuela\Maestria\3 Cuatrimestre\Desarrollo de servicios colaborativos con .net y computos\CuboNorthwind\3.BusinessModel.Layer\Tools\bin\Release\Tools.dll.config
+D:\Documentos\Escuela\Maestria\3 Cuatrimestre\Desarrollo de servicios colaborativos con .net y computos\CuboNorthwind\3.BusinessModel.Layer\Tools\bin\Release\Tools.dll
+D:\Documentos\Escuela\Maestria\3 Cuatrimestre\Desarrollo de servicios colaborativos con .net y computos\CuboNorthwind\3.BusinessModel.Layer\Tools\bin\Release\Tools.pdb
+D:\Documentos\Escuela\Maestria\3 Cuatrimestre\Desarrollo de servicios colaborativos con .net y computos\CuboNorthwind\3.BusinessModel.Layer\Tools\bin\Release\EntityFramework.dll
+D:\Documentos\Escuela\Maestria\3 Cuatrimestre\Desarrollo de servicios colaborativos con .net y computos\CuboNorthwind\3.BusinessModel.Layer\Tools\bin\Release\EntityFramework.SqlServer.dll
+D:\Documentos\Escuela\Maestria\3 Cuatrimestre\Desarrollo de servicios colaborativos con .net y computos\CuboNorthwind\3.BusinessModel.Layer\Tools\bin\Release\EntityFramework.xml
+D:\Documentos\Escuela\Maestria\3 Cuatrimestre\Desarrollo de servicios colaborativos con .net y computos\CuboNorthwind\3.BusinessModel.Layer\Tools\bin\Release\EntityFramework.SqlServer.xml
+D:\Documentos\Escuela\Maestria\3 Cuatrimestre\Desarrollo de servicios colaborativos con .net y computos\CuboNorthwind\3.BusinessModel.Layer\Tools\obj\Release\Tools.csprojAssemblyReference.cache
+D:\Documentos\Escuela\Maestria\3 Cuatrimestre\Desarrollo de servicios colaborativos con .net y computos\CuboNorthwind\3.BusinessModel.Layer\Tools\obj\Release\Tools.csproj.CoreCompileInputs.cache
+D:\Documentos\Escuela\Maestria\3 Cuatrimestre\Desarrollo de servicios colaborativos con .net y computos\CuboNorthwind\3.BusinessModel.Layer\Tools\obj\Release\Tools.csproj.CopyComplete
+D:\Documentos\Escuela\Maestria\3 Cuatrimestre\Desarrollo de servicios colaborativos con .net y computos\CuboNorthwind\3.BusinessModel.Layer\Tools\obj\Release\Tools.dll
+D:\Documentos\Escuela\Maestria\3 Cuatrimestre\Desarrollo de servicios colaborativos con .net y computos\CuboNorthwind\3.BusinessModel.Layer\Tools\obj\Release\Tools.pdb

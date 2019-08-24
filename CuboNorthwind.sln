@@ -1,0 +1,48 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.572
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1.RESTService.Layer", "1.RESTService.Layer", "{96193F9E-DDA0-4276-ADB2-5EEEFC7F86B3}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2.BusinessLogic.Layer", "2.BusinessLogic.Layer", "{57B27F2B-BD1B-4DDF-A44C-A5271D81DE8F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3.BusinessModel.Layer", "3.BusinessModel.Layer", "{24ECDDF1-7B78-4C2F-BA2F-2B1FDDBF5879}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "API.Northwind", "1.RESTService.Layer\API.Northwind\API.Northwind.csproj", "{A0CC4E26-4DF1-4BBE-AEE3-30A8C9ED6D48}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Negocio", "2.BusinessLogic.Layer\Negocio\Negocio.csproj", "{57E05615-A9FC-42DD-B6B3-075D57BE75E8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tools", "3.BusinessModel.Layer\Tools\Tools.csproj", "{42881391-B4EF-4F87-881C-EE6F751F4FB4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A0CC4E26-4DF1-4BBE-AEE3-30A8C9ED6D48}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0CC4E26-4DF1-4BBE-AEE3-30A8C9ED6D48}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A0CC4E26-4DF1-4BBE-AEE3-30A8C9ED6D48}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A0CC4E26-4DF1-4BBE-AEE3-30A8C9ED6D48}.Release|Any CPU.Build.0 = Release|Any CPU
+		{57E05615-A9FC-42DD-B6B3-075D57BE75E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57E05615-A9FC-42DD-B6B3-075D57BE75E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57E05615-A9FC-42DD-B6B3-075D57BE75E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57E05615-A9FC-42DD-B6B3-075D57BE75E8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{42881391-B4EF-4F87-881C-EE6F751F4FB4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42881391-B4EF-4F87-881C-EE6F751F4FB4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{42881391-B4EF-4F87-881C-EE6F751F4FB4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{42881391-B4EF-4F87-881C-EE6F751F4FB4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{A0CC4E26-4DF1-4BBE-AEE3-30A8C9ED6D48} = {96193F9E-DDA0-4276-ADB2-5EEEFC7F86B3}
+		{57E05615-A9FC-42DD-B6B3-075D57BE75E8} = {57B27F2B-BD1B-4DDF-A44C-A5271D81DE8F}
+		{42881391-B4EF-4F87-881C-EE6F751F4FB4} = {24ECDDF1-7B78-4C2F-BA2F-2B1FDDBF5879}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C22B38D1-E281-434D-9391-02AA3C5C0BA9}
+	EndGlobalSection
+EndGlobal

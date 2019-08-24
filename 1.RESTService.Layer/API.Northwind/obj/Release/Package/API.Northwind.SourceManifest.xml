@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<sitemanifest>
+  <IisApp path="D:\Documentos\Escuela\Maestria\3 Cuatrimestre\Desarrollo de servicios colaborativos con .net y computos\CuboNorthwind\1.RESTService.Layer\API.Northwind\obj\Release\Package\PackageTmp" />
+  <setAcl path="D:\Documentos\Escuela\Maestria\3 Cuatrimestre\Desarrollo de servicios colaborativos con .net y computos\CuboNorthwind\1.RESTService.Layer\API.Northwind\obj\Release\Package\PackageTmp" setAclResourceType="Directory" />
+  <setAcl path="D:\Documentos\Escuela\Maestria\3 Cuatrimestre\Desarrollo de servicios colaborativos con .net y computos\CuboNorthwind\1.RESTService.Layer\API.Northwind\obj\Release\Package\PackageTmp" setAclUser="anonymousAuthenticationUser" setAclResourceType="Directory" />
+</sitemanifest>

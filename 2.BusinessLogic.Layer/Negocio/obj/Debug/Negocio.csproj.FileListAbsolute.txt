@@ -1,0 +1,16 @@
+D:\Documentos\Escuela\Maestria\3 Cuatrimestre\Desarrollo de servicios colaborativos con .net y computos\CuboNorthwind\2.BusinessLogic.Layer\Negocio\obj\Debug\Negocio.csprojAssemblyReference.cache
+D:\Documentos\Escuela\Maestria\3 Cuatrimestre\Desarrollo de servicios colaborativos con .net y computos\CuboNorthwind\2.BusinessLogic.Layer\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+D:\Documentos\Escuela\Maestria\3 Cuatrimestre\Desarrollo de servicios colaborativos con .net y computos\CuboNorthwind\2.BusinessLogic.Layer\Negocio\bin\Debug\Negocio.dll.config
+D:\Documentos\Escuela\Maestria\3 Cuatrimestre\Desarrollo de servicios colaborativos con .net y computos\CuboNorthwind\2.BusinessLogic.Layer\Negocio\bin\Debug\Negocio.dll
+D:\Documentos\Escuela\Maestria\3 Cuatrimestre\Desarrollo de servicios colaborativos con .net y computos\CuboNorthwind\2.BusinessLogic.Layer\Negocio\bin\Debug\Negocio.pdb
+D:\Documentos\Escuela\Maestria\3 Cuatrimestre\Desarrollo de servicios colaborativos con .net y computos\CuboNorthwind\2.BusinessLogic.Layer\Negocio\bin\Debug\EntityFramework.dll
+D:\Documentos\Escuela\Maestria\3 Cuatrimestre\Desarrollo de servicios colaborativos con .net y computos\CuboNorthwind\2.BusinessLogic.Layer\Negocio\bin\Debug\EntityFramework.SqlServer.dll
+D:\Documentos\Escuela\Maestria\3 Cuatrimestre\Desarrollo de servicios colaborativos con .net y computos\CuboNorthwind\2.BusinessLogic.Layer\Negocio\bin\Debug\Microsoft.AnalysisServices.AdomdClient.dll
+D:\Documentos\Escuela\Maestria\3 Cuatrimestre\Desarrollo de servicios colaborativos con .net y computos\CuboNorthwind\2.BusinessLogic.Layer\Negocio\bin\Debug\Tools.dll
+D:\Documentos\Escuela\Maestria\3 Cuatrimestre\Desarrollo de servicios colaborativos con .net y computos\CuboNorthwind\2.BusinessLogic.Layer\Negocio\bin\Debug\Tools.pdb
+D:\Documentos\Escuela\Maestria\3 Cuatrimestre\Desarrollo de servicios colaborativos con .net y computos\CuboNorthwind\2.BusinessLogic.Layer\Negocio\bin\Debug\Tools.dll.config
+D:\Documentos\Escuela\Maestria\3 Cuatrimestre\Desarrollo de servicios colaborativos con .net y computos\CuboNorthwind\2.BusinessLogic.Layer\Negocio\bin\Debug\EntityFramework.xml
+D:\Documentos\Escuela\Maestria\3 Cuatrimestre\Desarrollo de servicios colaborativos con .net y computos\CuboNorthwind\2.BusinessLogic.Layer\Negocio\bin\Debug\EntityFramework.SqlServer.xml
+D:\Documentos\Escuela\Maestria\3 Cuatrimestre\Desarrollo de servicios colaborativos con .net y computos\CuboNorthwind\2.BusinessLogic.Layer\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+D:\Documentos\Escuela\Maestria\3 Cuatrimestre\Desarrollo de servicios colaborativos con .net y computos\CuboNorthwind\2.BusinessLogic.Layer\Negocio\obj\Debug\Negocio.dll
+D:\Documentos\Escuela\Maestria\3 Cuatrimestre\Desarrollo de servicios colaborativos con .net y computos\CuboNorthwind\2.BusinessLogic.Layer\Negocio\obj\Debug\Negocio.pdb
